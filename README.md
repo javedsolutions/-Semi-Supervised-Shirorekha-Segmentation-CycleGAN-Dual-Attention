@@ -1,6 +1,9 @@
 # Semi-Supervised-Shirorekha-Segmentation-CycleGAN-Dual-Attention
 Semi-Supervised Shirorekha Segmentation in Handwritten Devanagari Text using CycleGAN with Dual Attention 
 ________________________________________________________________________________________________________
+
 The code and Dataset available at https://github.com/idrees11/Semi-Supervised-Shirorekha-Segmentation-CycleGAN-Dual-Attention
 _____________________________________________________________________________________________________________
+
+
 The Paper link - https://www.sciencedirect.com/science/article/pii/S1568494626009476
